@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "calculadora",
+    "slug": "calculadora",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "calculadora"
+}
